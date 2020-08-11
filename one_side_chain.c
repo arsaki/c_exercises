@@ -1,6 +1,6 @@
 /*
- * one_side_chain.c
- * Copying 1 side coupled chains with random pointer pole
+ * singly_linked_list.c
+ * Copying singly linked list with random pointer pole
  *
  */
 
